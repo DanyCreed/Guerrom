@@ -1,0 +1,14 @@
+img{
+    max-width: 100%;
+}
+#imgcontenedor{
+    display: flex;
+    position: relative;
+    margin-bottom: 50px;
+    flex-wrap: wrap;
+}
+.img{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 50%;
+}
